@@ -1,3 +1,4 @@
 "This is a local repo to remote repo creation and push demo file"
 
-This is a dev file created for merge conflict practice
+"This is a dev file created for merge conflict practice."
+
